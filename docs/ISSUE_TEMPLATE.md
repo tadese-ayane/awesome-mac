@@ -5,7 +5,7 @@ NOTE: Each discrete (stand-alone) request should be in its own issue.
 
 **What types of change are you thinking about?** Put an x in all boxes that apply
 
-- [ k](New addition to list)
+- [ ] New addition to list
 - [ ] Fixing bug in existing item in list
 - [ ] Removing item from list
 - [ ] Changing structure (organization) of list
